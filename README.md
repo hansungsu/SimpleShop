@@ -1,7 +1,7 @@
 # SimpleShop
 The simplest and most trendy develop shop
 
-## Use
+## Use FrameWork
 ### Front FrameWork
 - Svelt
 
