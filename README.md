@@ -2,14 +2,14 @@
 The simplest and most trendy develop shop
 
 ## Use FrameWork
-### Front FrameWork
+### Front
 - Svelt
 
-## Build
+### Build
 - Vite
 
-## Test
+### Test
 - Vitest
 
-## Monorepo
+### Monorepo
 - pnpm
